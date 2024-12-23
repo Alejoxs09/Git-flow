@@ -1,4 +1,4 @@
-import React from "react";
+
 function Interfaz() {
   return (
     <div>
